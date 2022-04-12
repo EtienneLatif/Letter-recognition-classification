@@ -1,5 +1,5 @@
 # Letter recognition classification
-The notebooks I have used for machine learning and graph generation in my undergraduate dissertation.
+This repository contains the notebooks I have used for machine learning and graph generation in my undergraduate dissertation. The work has been completed using Python in Jupyter Notebook and using the numpy, pandas, matplotlib, scikit-learn and TensorFlow libraries.
 
 I am working with the letter recognition dataset found at: https://archive.ics.uci.edu/ml/datasets/Letter+Recognition
 
